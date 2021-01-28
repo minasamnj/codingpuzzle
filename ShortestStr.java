@@ -1,6 +1,7 @@
 package codingpuzzle;
 
-
+// given a string and array of unique characters, find the shortest substring that contain all the unique characters.
+// EX: str="minasam" , unique=['a','n'] result= "na"
 import java.util.Map;
 import java.util.HashMap;
 
